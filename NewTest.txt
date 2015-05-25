@@ -1,0 +1,3 @@
+// vim:set ts=4 sts=4 sw=4 tw=0:
+//	Cnst.java	堀野 守克	Last Change:2015/05/24 21:27:11.
+NewTest.txt
